@@ -3,3 +3,6 @@ header {
     background: url('http://dash.ga.co/assets/jeff-bg.png');
     background-size: cover;
     color: white;
+    body {
+    background-color: red;
+    }
