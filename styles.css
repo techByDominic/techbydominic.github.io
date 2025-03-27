@@ -3,6 +3,13 @@ header {
     background: url('http://dash.ga.co/assets/jeff-bg.png');
     background-size: cover;
     color: white;
+    
     body {
     background-color: red;
+    }
+
+    .press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
     }
